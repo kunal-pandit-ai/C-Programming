@@ -7,6 +7,7 @@ This repository contains my structured learning and practice of C programming.
 * Variables
 * Operators
 * Conditionals
+* Functions and Recursion
 (More coming soon...)
 
 ## How to Compile and Run

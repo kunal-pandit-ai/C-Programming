@@ -1,6 +1,7 @@
 # C-Programming
 
-This repository contains my structured learning and practice of C programming.
+“This repo contains my early programming journey using C.
+It helped me build logic before transitioning to AI Engineering.”
 
 ## Topics Covered
 
@@ -8,7 +9,6 @@ This repository contains my structured learning and practice of C programming.
 * Operators
 * Conditionals
 * Functions and Recursion
-(More coming soon...)
 
 ## How to Compile and Run
 
